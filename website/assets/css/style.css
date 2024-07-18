@@ -1,0 +1,102 @@
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: flex;
+}
+p{
+
+}
+:root{
+    --black:#010101;
+    --white:#fff;
+    --red:#e60012;
+    --gray:#666;
+    --border:#333;
+    --border2:#404040;
+    --text:#c8c8c8;
+    --bnr:#171616;
+}
+.ul1{
+    display: flex;
+}
+.head{
+    margin-right: 35%;
+    white-space: nowrap;
+}
+ .ul1 li:nth-child(2){
+    margin-left: 10%;
+}
+header ul li:nth-child(3){
+    margin-right: 5%;
+}
+.div1{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    writing-mode: vertical-rl;
+    font-size: 3em;
+}
+section div p{
+    text-align: center;
+    margin-bottom: 2.5em;
+}
+.ul2{
+display: flex;
+justify-content: center;
+}
+.ul2 li:last-child{
+    margin-left: 5em;
+}
+.span1{
+    margin: 7em auto;
+    margin-bottom: 4em;
+    writing-mode: vertical-rl;
+    display: flex;
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+}
+section p{
+    text-align: center;
+    margin-bottom: 2.5em;
+}
+figure{
+    display: flex;
+}
+.fig1{
+    padding: 0 0 0 4em;
+}
+.ul3{
+    display: flex;
+}
+.fig2{
+    padding: 0 4em 0 0;
+}
+.ul4{
+    display: flex;
+    justify-content: center;
+}
+.atag{
+    text-align: center;
+}
+.day{
+    padding-left: 10%;
+}
+.News{
+    padding-left: 10%;
+    padding-top: 10px;
+}
+.shop{
+width:10%;
+height: 10%;
+}
+.shop1{
+padding-top: 2.5em;
+}
+
+footer ul{
+    display: flex;
+}
